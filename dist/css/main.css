@@ -364,6 +364,9 @@ main#home h1 {
   main .lg-heading {
     font-size: 4rem;
   }
+  main .sm-heading {
+    font-size: 3rem;
+  }
   main#home h1 {
     margin-top: 10vh;
   }
